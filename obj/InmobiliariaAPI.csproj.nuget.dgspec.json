@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaAPI.csproj": {}
+    "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaWebApi\\InmobiliariaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaAPI.csproj": {
+    "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaWebApi\\InmobiliariaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaAPI.csproj",
+        "projectUniqueName": "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaWebApi\\InmobiliariaAPI.csproj",
         "projectName": "InmobiliariaAPI",
-        "projectPath": "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaAPI.csproj",
+        "projectPath": "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaWebApi\\InmobiliariaAPI.csproj",
         "packagesPath": "C:\\Users\\C19552\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\LAB III\\InmobiliariaAPI\\obj\\",
+        "outputPath": "C:\\Temp\\LAB III\\InmobiliariaAPI\\InmobiliariaWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\C19552\\AppData\\Roaming\\NuGet\\NuGet.Config"
